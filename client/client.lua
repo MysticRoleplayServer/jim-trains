@@ -13,7 +13,7 @@ if Config.General.showStationBlips then
 			coords = coord,
 			sprite = 783,
 			col = 1,
-			scale = 0.5,
+			scale = 0.7,
 			disp = 6,
 			category = nil,
 			name = Loc[Config.Lan].lsmetro
